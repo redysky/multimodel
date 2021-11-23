@@ -88,7 +88,7 @@ if __name__ == "__main__":
                           t_label, tt_label, use_power_data=False)
 
         # 构建多模态模型
-        multi_model = MultiModel(vocab_dim, n_symbols, embedding_weights, input_length, outdim)
+        multi_model = MultiModel(vocab_dim, n_symbols, embedding_weights, input_length, out_dim)
         # run_eagerly指示模型是否应急切运行的可设置属性,这对于自定义的损失函数和张量的流动很有用
         # 急切地运行意味着您的模型将逐步运行，就像 Python 代码一样。您的模型可能运行得较慢，但您应该更容易通过进入各个层调用来调试它。
         # 默认情况下，我们会尝试将您的模型编译为静态图以提供最佳执行性能
