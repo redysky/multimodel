@@ -11,7 +11,7 @@ explain:The specific description of the project and the product image data set w
 ![image text]()
 
 # CD 商品图像数据集 
-# 暂时不提供完整数据，只提供所有特征的二进制文件 https://drive.google.com/drive/folders/1Ch3Y9Tek5MQyXLYeJpWQ1oe_YcwNf5c_?usp=sharing
+暂时不提供完整数据，只提供所有特征的二进制文件 https://drive.google.com/drive/folders/1Ch3Y9Tek5MQyXLYeJpWQ1oe_YcwNf5c_?usp=sharing
 # Fasion-200k
 需要初始化path和label_path,运行fasion_dataset.py将会得到训练集和测试集的图片路径，所有过滤后的文本数据以及标签https://www.kaggle.com/mayukh18/fashion200k-dataset
 
