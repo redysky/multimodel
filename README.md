@@ -5,7 +5,7 @@
 # introduce
 explain:The specific description of the project and the product image data set will be supplemented in the future. Welcome to star in advance
 
-![image text](https://raw.githubusercontent.com/redysky/multimodel/master/picture.png)
+![image text](https://github.com/redysky/multimodel/blob/master/image/picture.png)
 
 # CD 商品图像数据集 
 暂时不提供,这里仅提供二进制文件https://drive.google.com/drive/folders/1Ch3Y9Tek5MQyXLYeJpWQ1oe_YcwNf5c_?usp=sharing
